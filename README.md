@@ -1,0 +1,2 @@
+# bandymas
+bandymas su wordpress
